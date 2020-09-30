@@ -1,0 +1,1 @@
+/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/target/thumbv8m.main-none-eabihf/release/app_m33: /home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/build.rs /home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/memory.x /home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/src/main.rs build.rs link.x.in memory.x

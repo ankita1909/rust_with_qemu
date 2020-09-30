@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=cortex-m-semihosting
+cargo:rustc-link-search=/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/target/thumbv8m.main-none-eabihf/release/build/cortex-m-semihosting-8d8f8e2fb1b75775/out
+cargo:rustc-cfg=thumb

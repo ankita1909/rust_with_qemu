@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/target/release/build/cortex-m-rt-e7155fc06f44d597/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

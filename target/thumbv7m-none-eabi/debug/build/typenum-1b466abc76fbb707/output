@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app/target/thumbv7m-none-eabi/debug/build/typenum-1b466abc76fbb707/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app/target/thumbv7m-none-eabi/debug/build/typenum-1b466abc76fbb707/out/op.rs

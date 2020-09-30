@@ -1,0 +1,6 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/target/thumbv8m.main-none-eabihf/release/build/cortex-m-949bbf128770b25e/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv8m
+cargo:rustc-cfg=armv8m_main
+cargo:rustc-cfg=has_fpu

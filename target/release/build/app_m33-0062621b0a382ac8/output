@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app_m33/target/release/build/app_m33-0062621b0a382ac8/out
+cargo:rerun-if-changed=memory.x

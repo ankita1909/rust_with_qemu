@@ -1,0 +1,1 @@
+/home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app/target/thumbv7m-none-eabi/debug/app: /home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app/build.rs /home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app/memory.x /home/onki/Downloads/Fraunhofer_work/ruct+c/rustbook/app/src/main.rs build.rs link.x.in memory.x

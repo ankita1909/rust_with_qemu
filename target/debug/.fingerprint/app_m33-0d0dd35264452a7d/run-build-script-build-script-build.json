@@ -1,0 +1,1 @@
+{"rustc":15479600521011547909,"features":"","target":0,"profile":0,"path":0,"deps":[[79999404708547925,"build_script_build",false,11401978128201991525],[6839029290985755233,"build_script_build",false,2557180609273776000]],"local":[{"RerunIfChanged":{"output":"debug/build/app_m33-0d0dd35264452a7d/output","paths":["memory.x"]}}],"rustflags":[],"metadata":0}
